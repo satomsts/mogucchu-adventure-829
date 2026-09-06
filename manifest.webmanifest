@@ -1,0 +1,14 @@
+{
+  "name": "もぐっちゅの冒険",
+  "short_name": "もぐっちゅ",
+  "description": "数直線をジャンプして学ぶ、子ども向け算数学習ゲーム",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#fffaf0",
+  "theme_color": "#315549",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "1254x1254", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
