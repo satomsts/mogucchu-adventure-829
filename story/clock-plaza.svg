@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="とけいの ひろばで もぐっちゅと もぐもせが とまった とけいを みている">
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#302a48"/><stop offset=".58" stop-color="#876457"/><stop offset="1" stop-color="#b28456"/></linearGradient>
+ <radialGradient id="light"><stop stop-color="#ffe8a7" stop-opacity=".8"/><stop offset="1" stop-color="#ffe8a7" stop-opacity="0"/></radialGradient>
+ <linearGradient id="path" x2="0" y2="1"><stop stop-color="#ecd4a3"/><stop offset="1" stop-color="#9b704a"/></linearGradient>
+ <pattern id="dots" width="28" height="25" patternUnits="userSpaceOnUse"><circle cx="6" cy="5" r="1.7" fill="#fff8df" opacity=".28"/><circle cx="21" cy="17" r="1.2" fill="#fff8df" opacity=".26"/></pattern>
+ <filter id="shadow"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/><ellipse cx="800" cy="440" rx="590" ry="510" fill="url(#light)"/>
+<path d="M0 0h1600v190q-90-30-200 60-80-120-170-35-160-200-260-40-130-80-205-10-120-100-245 10-110-80-200 30-90-45-120 10Z" fill="#3e4236"/><path d="M0 0h1600v95q-180 90-300 28-100 75-210-10-150 90-280-14-115 85-225 18Q350 170 0 70Z" fill="#293b36"/>
+<path d="M0 350Q260 240 475 385v225H0ZM1600 350q-250-110-470 35v225h470Z" fill="#5b5946"/><path d="M0 580Q310 510 550 635L800 565l245 70q250-115 555-55v320H0Z" fill="url(#path)"/><path d="M0 770Q450 600 800 760q350-160 800 10" fill="none" stroke="#f3d69c" stroke-width="38" opacity=".38"/>
+<!-- The clock is a code-native illustration rather than a regenerated bitmap. -->
+<path d="M665 590V256q0-65 70-66h130q70 0 70 66v334Z" fill="#6f4b37" stroke="#4e3228" stroke-width="22"/><path d="M705 590V260q0-30 30-30h130q30 0 30 30v330" fill="#af7a4a"/><path d="M694 595h212v70H694Z" fill="#67422d" stroke="#d6a067" stroke-width="13"/>
+<circle cx="800" cy="361" r="167" fill="#70452e" stroke="#e1ae67" stroke-width="19"/><circle cx="800" cy="361" r="146" fill="#f5e1ae" stroke="#765238" stroke-width="9"/><circle cx="800" cy="361" r="133" fill="url(#dots)"/>
+<g fill="#513721" font-family="sans-serif" font-size="46" font-weight="900" text-anchor="middle"><text x="800" y="263">12</text><text x="895" y="377">3</text><text x="800" y="486">6</text><text x="702" y="377">9</text></g>
+<path d="M800 366 806 298" stroke="#af6738" stroke-width="21" stroke-linecap="round"/><path d="M800 366 743 335" stroke="#39869c" stroke-width="14" stroke-linecap="round"/><circle cx="800" cy="361" r="16" fill="#f7e4b6" stroke="#64432c" stroke-width="7"/>
+<g fill="#e9bd6e" opacity=".7"><circle cx="280" cy="480" r="10"/><circle cx="1275" cy="460" r="8"/><circle cx="1400" cy="350" r="5"/><circle cx="135" cy="365" r="7"/></g>
+<path d="M210 550q90-200 190 0v145H210Z" fill="#d9955a" stroke="#7e5139" stroke-width="18"/><path d="M1200 550q90-200 190 0v145h-190Z" fill="#6f83a1" stroke="#4d536b" stroke-width="18"/><circle cx="300" cy="550" r="45" fill="#f6c46e"/><path d="M1260 567q32-90 70 0" fill="none" stroke="#d6dcec" stroke-width="26"/>
+<!-- Mogucchu: small, grey, round, simple bead eyes, miner helmet and green pack. -->
+<g transform="translate(0 -190)">
+<ellipse cx="425" cy="783" rx="175" ry="34" fill="#382a24" opacity=".33" filter="url(#shadow)"/><ellipse cx="343" cy="684" rx="60" ry="107" fill="#70835c" stroke="#53664a" stroke-width="10"/><ellipse cx="455" cy="660" rx="137" ry="155" fill="#9d9a93" stroke="#746d64" stroke-width="9"/><ellipse cx="457" cy="730" rx="74" ry="58" fill="#e8dcc7"/><ellipse cx="390" cy="662" rx="45" ry="71" fill="#9d9a93"/><ellipse cx="532" cy="659" rx="45" ry="69" fill="#9d9a93"/><ellipse cx="399" cy="781" rx="51" ry="28" fill="#ef7945"/><ellipse cx="516" cy="781" rx="51" ry="28" fill="#ef7945"/>
+<path d="M330 579q0-136 125-146 140 0 142 146Z" fill="#efb52e" stroke="#9b6a24" stroke-width="9"/><path d="M327 568q128-30 271 0" fill="none" stroke="#433929" stroke-width="18"/><ellipse cx="463" cy="569" rx="139" ry="24" fill="#f8ca42" stroke="#936922" stroke-width="8"/><circle cx="467" cy="518" r="36" fill="#fff9de" stroke="#423b34" stroke-width="13"/>
+<circle cx="413" cy="643" r="10" fill="#201c1b"/><circle cx="501" cy="643" r="10" fill="#201c1b"/><ellipse cx="458" cy="672" rx="32" ry="25" fill="#f7ead0"/><ellipse cx="458" cy="659" rx="11" ry="8" fill="#3c2c26"/><path d="m424 675-44-12m43 22-40 4m108-14 41-13m-41 23 40 4" stroke="#493c33" stroke-width="5" stroke-linecap="round"/>
+<!-- Mogumose: brown with oversized blue glasses and shoulder tote. -->
+<ellipse cx="1130" cy="782" rx="167" ry="31" fill="#382a24" opacity=".35" filter="url(#shadow)"/><ellipse cx="1136" cy="666" rx="146" ry="156" fill="#9b6948" stroke="#654831" stroke-width="10"/><ellipse cx="1138" cy="727" rx="83" ry="62" fill="#e9d3ae"/><ellipse cx="1034" cy="672" rx="46" ry="68" fill="#9b6948"/><ellipse cx="1242" cy="673" rx="46" ry="70" fill="#9b6948"/><ellipse cx="1073" cy="782" rx="54" ry="26" fill="#d9ba88"/><ellipse cx="1191" cy="782" rx="54" ry="26" fill="#d9ba88"/>
+<path d="M1080 519q-16-46-4-67m48 60q4-62 21-72m35 83q30-51 49-58" fill="none" stroke="#674532" stroke-width="13" stroke-linecap="round"/>
+<path d="M1200 600q12-60 38-60 43 0 43 62v100" fill="none" stroke="#e7ad2e" stroke-width="16"/><path d="M1236 674h82v100h-82Z" fill="#eeb434" stroke="#945c23" stroke-width="10"/>
+<circle cx="1087" cy="635" r="47" fill="#faf8e8" stroke="#3b8baa" stroke-width="14"/><circle cx="1186" cy="635" r="47" fill="#faf8e8" stroke="#3b8baa" stroke-width="14"/><path d="M1134 630h8" stroke="#3b8baa" stroke-width="12"/><path d="M1038 629h-28m224 0h29" stroke="#3b8baa" stroke-width="12"/><path d="M1078 639q10-14 20 0m78 0q10-14 20 0" fill="none" stroke="#513b2b" stroke-width="5"/><ellipse cx="1136" cy="670" rx="30" ry="25" fill="#f1d9b6"/><ellipse cx="1136" cy="659" rx="11" ry="8" fill="#3a2d28"/><path d="M1125 692q12 13 24 0" fill="none" stroke="#493429" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g fill="#e6c18b" opacity=".45"><circle cx="167" cy="825" r="20"/><circle cx="669" cy="794" r="13"/><circle cx="938" cy="829" r="19"/><circle cx="1495" cy="809" r="22"/></g>
+</svg>
